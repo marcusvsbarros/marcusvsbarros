@@ -23,4 +23,5 @@ Profissional em transição de carreira buscando conhecimento na área de desenv
 
 * 🌍  Moro em Sorocaba-São Paulo.
 * ✉️  Cursando Desenvolvimento de Software Multiplataforma - FATEC Votorantim.
+* ✉️  Técnico em Desenvolvimento de Sistemas - ETEC Votorantim.
 * 🤝  Estou disponível para participar de projetos e grupos de estudos.
